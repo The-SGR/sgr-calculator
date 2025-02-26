@@ -43,7 +43,8 @@
      <string notr="true">QLabel {
 	qproperty-alignment: 'AlignVCenter | AlignRight';
 	border: 2px solid white;
-	border-radius: 5px
+	border-radius: 5px;
+	color: white;
 }
 font: 900 10pt &quot;Arial&quot;;</string>
     </property>
@@ -71,15 +72,18 @@ font: 900 10pt &quot;Arial&quot;;</string>
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -106,15 +110,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -141,15 +148,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -176,15 +186,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -211,15 +224,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -246,15 +262,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -281,15 +300,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -316,15 +338,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -351,15 +376,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -386,15 +414,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -421,15 +452,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -456,15 +490,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -491,15 +528,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -526,15 +566,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -561,15 +604,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -596,15 +642,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -631,15 +680,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -666,15 +718,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -701,15 +756,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -736,15 +794,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -771,15 +832,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -806,15 +870,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -841,15 +908,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -876,15 +946,18 @@ QPushButton:pressed {
      <string notr="true">QPushButton {
 	border: 1px solid white;
 	border-radius: 3px;
+	color: white;
 }
 QPushButton:hover {
 	background-color: rgb(47, 47, 47);
 	border-radius: 6px;
+	color: white;
 }
 
 QPushButton:pressed {
 	background-color: rgb(72, 72, 72);
 	border-radius: 9px;
+	color: white;
 }</string>
     </property>
     <property name="text">
@@ -901,7 +974,34 @@ QPushButton:pressed {
      <height>21</height>
     </rect>
    </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <widget class="QMenu" name="menuProgram">
+    <property name="title">
+     <string>Program</string>
+    </property>
+    <addaction name="actionAbout"/>
+    <addaction name="actionGitHub"/>
+    <addaction name="actionExit"/>
+   </widget>
+   <addaction name="menuProgram"/>
   </widget>
+  <action name="actionAbout">
+   <property name="text">
+    <string>About</string>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+  <action name="actionGitHub">
+   <property name="text">
+    <string>GitHub</string>
+   </property>
+  </action>
  </widget>
  <resources/>
  <connections/>

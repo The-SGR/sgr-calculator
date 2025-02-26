@@ -1,6 +1,9 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
 #include <cmath>
+#include <QMessageBox>
+#include <QDesktopServices>
+#include <QUrl>
 
 double firstNum;
 
@@ -37,6 +40,10 @@ MainWindow::MainWindow(QWidget *parent)
     ui -> multiplyBtn -> setCheckable(true);
     ui -> divideBtn -> setCheckable(true);
     ui -> powerYBtn -> setCheckable(true);
+
+    connect(ui -> actionAbout, SIGNAL(triggered()), this, SLOT(on_actionAbout_clicked()));
+    connect(ui -> actionGitHub, SIGNAL(triggered()), this, SLOT(on_actionGit_clicked()));
+    connect(ui -> actionExit, SIGNAL(triggered()), this, SLOT(on_actionExit_clicked()));
 }
 
 MainWindow::~MainWindow()
@@ -163,4 +170,16 @@ void MainWindow::on_clearBtn_clicked()
     ui -> divideBtn -> setChecked(false);
     ui -> powerYBtn -> setChecked(false);
     ui -> resShow -> setText("0");
+}
+
+void MainWindow::on_actionAbout_clicked() {
+    QMessageBox::information(this, "About", "Advanced calculator by SGR!\nIn future I'll add logarithms, trigonometric functions, etc...");
+}
+
+void MainWindow::on_actionGit_clicked() {
+    QDesktopServices::openUrl(QUrl("https://github.com/The-SGR"));
+}
+
+void MainWindow::on_actionExit_clicked() {
+    QApplication::exit();
 }

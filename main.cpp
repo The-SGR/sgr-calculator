@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
     w.setWindowTitle("SGR's Advanced Calculator");
-    w.setFixedSize(335, 400);
+    w.setFixedSize(335, 440);
+    w.setWindowIcon(QIcon(":/res/logo.png"));
     return a.exec();
 }

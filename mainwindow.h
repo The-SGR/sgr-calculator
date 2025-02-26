@@ -27,5 +27,8 @@ private slots:
     void operations();
     void on_clearBtn_clicked();
     void on_equalBtn_clicked();
+    void on_actionAbout_clicked();
+    void on_actionGit_clicked();
+    void on_actionExit_clicked();
 };
 #endif // MAINWINDOW_H
